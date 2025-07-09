@@ -21,7 +21,7 @@ Authors:
 
 - **[2025/07]** 🔧 uQRPCA+ code coming soon!
 - **[2025/07]** 📄 Paper arXiv submission pending.
-- **[2025/07]** 🧪 Evaluation code released.
+- **[2025/07/09]** 🧪 Evaluation code released.
 
 ---
 
