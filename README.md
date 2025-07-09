@@ -4,7 +4,7 @@ Hi! This is the repository of **uQRPCA+**
 
 Authors:  
 [Liyang Wang](https://ruchtech.github.io/),  
-[Shiqian Wu](https://scholar.google.com/citations?user=dandan123),  
+[Shiqian Wu](https://scholar.google.com/citations?user=wBNGkEMAAAAJ&hl=zh-CN&oi=sra),  
 [Sos Agaian](https://scholar.google.com/citations?user=FazfMZMAAAAJ&hl=zh-CN&oi=ao),  
 [Shun Fang](https://scholar.google.com/citations?user=CKJeooEAAAAJ&hl=zh-CN&oi=sra),  
 [Qile Zhu](https://github.com/Ruchtech/uQRPCA)
