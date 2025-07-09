@@ -41,9 +41,8 @@ Authors:
 
 ## 📊 Evaluation
 
-- Reproducible results with visual and quantitative evaluations.
-- Evaluation pipeline is included for both background recovery and foreground segmentation.
-- Supports benchmarking on standard video datasets.
+Background Recovery--MATLAB
+Target Detection--PYTHON
 
 ---
 
