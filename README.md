@@ -37,7 +37,7 @@ coming soon!
 - **Scripts**: `main.m`  
 
 ### 🎯 Moving Target Detection
-- **Platform**: Python  
+- **Platform**: PYTHON  
 - **Scripts**: `main.py`, `scale_change.py`  
 
 ---
