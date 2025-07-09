@@ -27,22 +27,18 @@ Authors:
 
 ## 🚀 Demo & Main Scripts
 
-### 🎞 Background Recovery
-- **Platform**: MATLAB  
-- **Scripts**: `demo_background.m`, `main_background.m`  
-- **Functionality**: Performs robust low-rank background recovery on color video sequences.
-
-### 🎯 Moving Target Detection
-- **Platform**: Python  
-- **Scripts**: `demo_foreground.py`, `main_foreground.py`  
-- **Functionality**: Detects moving foreground targets using quaternion representations.
+coming soon!
 
 ---
 
 ## 📊 Evaluation
+### 🎞 Background Recovery
+- **Platform**: MATLAB  
+- **Scripts**: `main.m`  
 
-Background Recovery--MATLAB
-Target Detection--PYTHON
+### 🎯 Moving Target Detection
+- **Platform**: Python  
+- **Scripts**: `main.py`, `scale_change.py`  
 
 ---
 
