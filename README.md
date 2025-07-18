@@ -3,12 +3,10 @@
 Hi! This is the repository of **uQRPCA+**
 Thank you very much for your interest in my work.  
 This is my first research project and also my first complete experience with independent academic writing.  
-If you have any suggestions, feedback, or are interested in potential collaboration, feel free to reach out [📧](liyangwang520@gmail.com).
-
-I'm always happy to connect and learn from others in the community.
+If you have any suggestions, feedback, or are interested in potential collaboration, feel free to reach out [📧](liyangwang520@gmail.com). I'm always happy to connect and learn from others in the community.
 
 
-Authors:  
+co-Authors:  
 [Liyang Wang](https://ruchtech.github.io/),  
 [Shiqian Wu](https://scholar.google.com/citations?user=wBNGkEMAAAAJ&hl=zh-CN&oi=sra),  
 [Sos Agaian](https://scholar.google.com/citations?user=FazfMZMAAAAJ&hl=zh-CN&oi=ao),  
