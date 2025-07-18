@@ -4,7 +4,7 @@ Hi! This is the repository of **uQRPCA+**
 Thank you very much for your interest in my work.  
 This is my first research project and also my first complete experience with independent academic writing.  
 If you have any suggestions, feedback, or are interested in potential collaboration, feel free to reach out:  
-[📧](mailto:liyangwang520@gmail.com)  
+<a href="liyangwang520@gmail.com" style="text-decoration: none;">📧</a>
 I'm always happy to connect and learn from others in the community.
 
 
