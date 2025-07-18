@@ -1,7 +1,6 @@
 # Quaternion-Based Robust PCA for Efficient Moving Target Detection and Background Recovery in Color Videos
 
-Hi! This is the repository of **uQRPCA+**
-Thank you very much for your interest in my work.  
+Hi! This is the repository of **uQRPCA+**. Thank you very much for your interest in my work.  
 This is my first research project and also my first complete experience with independent academic writing.  
 If you have any suggestions, feedback, or are interested in potential collaboration, feel free to reach out [📧](liyangwang520@gmail.com). I'm always happy to connect and learn from others in the community.
 
