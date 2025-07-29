@@ -5,12 +5,12 @@ This is my first research project and also my first complete experience with ind
 If you have any suggestions, feedback, or are interested in potential collaboration, feel free to reach out [📧](mailto:liyangwang520@gmail.com). I'm always happy to connect and learn from others in the community.
 
 
-co-Authors:  
-[Liyang Wang](https://ruchtech.github.io/),  [Shiqian Wu](https://scholar.google.com/citations?user=wBNGkEMAAAAJ&hl=zh-CN&oi=sra),  [Shun Fang](https://scholar.google.com/citations?user=CKJeooEAAAAJ&hl=zh-CN&oi=sra),  [Qile Zhu](https://scholar.google.com/citations?user=WXTXzF0AAAAJ&hl=zh-CN&oi=ao),[Jiaxin Wu](https://github.com/Ruchtech/uQRPCA),[Sos Agaian](https://scholar.google.com/citations?user=FazfMZMAAAAJ&hl=zh-CN&oi=ao)
+**Co-authors:** [Liyang Wang](https://ruchtech.github.io/), [Shiqian Wu](https://scholar.google.com/citations?user=wBNGkEMAAAAJ&hl=zh-CN&oi=sra), [Shun Fang](https://scholar.google.com/citations?user=CKJeooEAAAAJ&hl=zh-CN&oi=sra), [Qile Zhu](https://scholar.google.com/citations?user=WXTXzF0AAAAJ&hl=zh-CN&oi=ao), [Jiaxin Wu](https://github.com/Ruchtech/uQRPCA), [Sos Agaian](https://scholar.google.com/citations?user=FazfMZMAAAAJ&hl=zh-CN&oi=ao)
+
 ---
 
 ## 🔧 uQRPCA+: universal quaternion-based robust PCA with color rank-1 batch  
-[![arXiv](https://img.shields.io/badge/arXiv-ComingSoon-lightgrey)](https://github.com/Ruchtech/uQRPCA)  
+[![arXiv](https://arxiv.org/abs/2507.19730)  
 > A universal and efficient method for color video background modeling and moving target detection based on quaternion robust PCA.
 
 ---
@@ -18,7 +18,7 @@ co-Authors:
 ## 📰 News
 
 - **[2025/07]** 🔧 uQRPCA+ code and data coming soon!
-- **[2025/07]** 📄 Paper arXiv submission pending.
+- **[2025/07/29]** 📄 The paper is now available on arXiv.
 - **[2025/07/09]** 🧪 Evaluation code released.
 
 ---
@@ -45,11 +45,13 @@ coming soon!
 If you find this work useful in your research, please consider citing:
 
 ```bibtex
+
 @misc{wang2025uqrpca,
-  title={Quaternion-Based Robust PCA for Efficient Moving Target Detection and Background Recovery in Color Videos},
-  author={Wang, Liyang and Wu, Shiqian and Agaian, Sos and Fang, Shun and Zhu, Qile},
-  year={2025},
-  eprint={Coming soon},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+  title        = {Quaternion-Based Robust PCA for Efficient Moving Target Detection and Background Recovery in Color Videos},
+  author       = {Wang, Liyang and Wu, Shiqian and Fang, Shun and Zhu, Qile and Wu, Jiaxin and Agaian, Sos},
+  year         = {2025},
+  eprint       = {2507.19730},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CV}
 }
+
