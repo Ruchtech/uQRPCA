@@ -6,12 +6,7 @@ If you have any suggestions, feedback, or are interested in potential collaborat
 
 
 co-Authors:  
-[Liyang Wang](https://ruchtech.github.io/),  
-[Shiqian Wu](https://scholar.google.com/citations?user=wBNGkEMAAAAJ&hl=zh-CN&oi=sra),  
-[Sos Agaian](https://scholar.google.com/citations?user=FazfMZMAAAAJ&hl=zh-CN&oi=ao),  
-[Shun Fang](https://scholar.google.com/citations?user=CKJeooEAAAAJ&hl=zh-CN&oi=sra),  
-[Qile Zhu](https://github.com/Ruchtech/uQRPCA)
-
+[Liyang Wang](https://ruchtech.github.io/),  [Shiqian Wu](https://scholar.google.com/citations?user=wBNGkEMAAAAJ&hl=zh-CN&oi=sra),  [Shun Fang](https://scholar.google.com/citations?user=CKJeooEAAAAJ&hl=zh-CN&oi=sra),  [Qile Zhu](https://scholar.google.com/citations?user=WXTXzF0AAAAJ&hl=zh-CN&oi=ao),[Jiaxin Wu](https://github.com/Ruchtech/uQRPCA),[Sos Agaian](https://scholar.google.com/citations?user=FazfMZMAAAAJ&hl=zh-CN&oi=ao)
 ---
 
 ## 🔧 uQRPCA+: universal quaternion-based robust PCA with color rank-1 batch  
