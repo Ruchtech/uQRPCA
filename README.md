@@ -19,8 +19,8 @@ If you have any suggestions, feedback, or are interested in potential collaborat
 
 ## 📰 News
 
-- **[2025/07]** 🔧 uQRPCA+ code and data coming soon!
-- **[2025/07/29]** 📄 The paper is now available on arXiv.
+- **[2025/07]** 🔧 uQRPCA+ code coming soon!
+- **[2025/07/29]** 📄 The paper is now available on arXiv, and the dataset has been released.
 - **[2025/07/09]** 🧪 Evaluation code released.
 
 ---
