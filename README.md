@@ -9,9 +9,11 @@ If you have any suggestions, feedback, or are interested in potential collaborat
 
 ---
 
-## 🔧 uQRPCA+: universal quaternion-based robust PCA with color rank-1 batch  
-[![arXiv](https://arxiv.org/abs/2507.19730)  
-> A universal and efficient method for color video background modeling and moving target detection based on quaternion robust PCA.
+## 🔧 uQRPCA+: Universal Quaternion-Based Robust PCA with Color Rank-1 Batch  
+
+[![arXiv](https://img.shields.io/badge/arXiv-2507.19730-b31b1b)](https://arxiv.org/abs/2507.19730)  
+
+> A universal and efficient method for background modeling and moving target detection in color videos, based on quaternion robust PCA.
 
 ---
 
